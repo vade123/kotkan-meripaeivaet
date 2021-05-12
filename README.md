@@ -2,7 +2,7 @@
 
 tehää äijjjjien kans softa mis voidaa nähä mis äijjjjät menee
 
-mern stack
+mern stack (tai sit kotlin android appi emt lol)
 
 functional requirements:
 - userit
