@@ -1,6 +1,6 @@
 # kotkan-meripaevaet
 
-tehää äijjien kans softa mis voidaa nähä mis äijjät menee
+tehää äijjjjien kans softa mis voidaa nähä mis äijjjjät menee
 
 mern stack
 
@@ -10,4 +10,4 @@ mern stack
 - ???
 - profit
 
-softa on valmis sit ku päästää äijjien kans kotkan meripäivil
+softa on valmis sit ku päästää äijjjjien kans kotkan meripäivil
