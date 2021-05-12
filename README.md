@@ -1,4 +1,4 @@
-# kotkan-meripaevaet
+# kotkan-meripaeivaet
 
 tehää äijjjjien kans softa mis voidaa nähä mis äijjjjät menee
 
